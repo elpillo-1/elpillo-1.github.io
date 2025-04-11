@@ -1,48 +1,46 @@
 h1 {
-    border: 2px solid coral;
-    font-family: "Poppins", sans-serif;
+    border: 2px solid #FF6347;
+    font-family: "Arial", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 800;
-    font-style: italic;
-    font-variation-settings:
-        "wght" 800;
-    color: darkorchid;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings: "wght" 900;
+    color: #8A2BE2;
 }
 
 ul {
-    border-width: 4px;
-    border-style: dashed;
-    border-color: deepskyblue;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #32CD32;
 }
 
 li {
-    border-width: 2px;
-    border-style: dotted;
-    border-color: mediumslateblue;
-    color: darkslateblue;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: #FF1493;
+    color: #DC143C;
 }
 
 p {
-    border-radius: 12px;
-    border-width: 3px;
+    border-radius: 8px;
+    border-width: 2px;
     border-style: double;
-    border-color: darkviolet;
-    background-color: lightyellow;
-    color: #333;
+    border-color: #FFD700;
+    background-color: #F0E68C;
+    color: #2F4F4F;
 }
 
 body {
-    background-color: lightgray;
+    background-color: #FAEBD7;
     background-size: cover;
-    background-image: url("new-background.png"); /* Cambia el nombre si tienes otro fondo */
+    background-image: url("new-background.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Tahoma", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 700;
+    font-weight: 600;
     font-style: normal;
-    font-variation-settings:
-        "wght" 700;
-    color: #222;
+    font-variation-settings: "wght" 600;
+    color: #4B0082;
 }
