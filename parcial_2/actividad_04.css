@@ -1,38 +1,38 @@
 h1 {
-    border: 2px solid mediumseagreen;
+    border: 2px solid coral;
     font-family: "Poppins", sans-serif;
     font-optical-sizing: auto;
     font-weight: 800;
     font-style: italic;
     font-variation-settings:
         "wght" 800;
-    color: navy;
+    color: darkorchid;
 }
 
 ul {
     border-width: 4px;
     border-style: dashed;
-    border-color: orange;
+    border-color: deepskyblue;
 }
 
 li {
     border-width: 2px;
     border-style: dotted;
-    border-color: teal;
-    color: darkslategray;
+    border-color: mediumslateblue;
+    color: darkslateblue;
 }
 
 p {
     border-radius: 12px;
     border-width: 3px;
     border-style: double;
-    border-color: indigo;
-    background-color: lavender;
+    border-color: darkviolet;
+    background-color: lightyellow;
     color: #333;
 }
 
 body {
-    background-color: #f0f8ff; /* AliceBlue */
+    background-color: lightgray;
     background-size: cover;
     background-image: url("new-background.png"); /* Cambia el nombre si tienes otro fondo */
     background-repeat: no-repeat;
